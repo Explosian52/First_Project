@@ -2,3 +2,4 @@ History of the project
 
 1. Writinf from files
 2. Reading to files
+2. Reading from files
